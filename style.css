@@ -1,0 +1,92 @@
+.layout-4{
+   background-color:rgb(254, 239, 239);
+}
+.wrapper{
+    height: 100px;
+    background-color: rgba(104, 55, 249, 0.314);
+ }
+ .logo{
+    float:left;
+    padding-left: 50px;
+ }
+ .navigation{
+    float:right;
+    padding-right: 50px;
+ }
+ .container{
+overflow:hidden;
+ }
+ .box{
+     height:200px;
+     background-color: rgba(104, 55, 249, 0.314);
+     margin: 10px;
+     width:24%;
+     float:left;
+ }
+ .box-4{
+     margin-right: 0;
+ }
+
+ .container{
+
+}
+.box{
+    height:200px;
+    background-color: rgba(104, 55, 249, 0.314);
+    margin: 10px;
+    width:24%;
+    float:left;
+}
+.box-4{
+    margin-right: 0;
+}
+
+.container{
+
+}
+.box{
+    height:200px;
+    background-color: rgba(104, 55, 249, 0.314);
+    margin: 10px;
+    width:24%;
+    float:left;
+}
+.box-4{
+    margin-right: 0;
+}
+
+.container{
+
+}
+.box{
+    height:200px;
+    background-color: rgba(104, 55, 249, 0.314);
+    margin: 10px;
+    width:24%;
+    float:left;
+}
+.box-4{
+    margin-right: 0;
+}
+.container{
+
+}
+.single{
+    height:250px;
+    background-color: rgba(104, 55, 249, 0.314);
+    margin:10px;
+    float:left;
+    width:32%;
+    text-align: center;
+    line-height: 200px;
+
+}
+.footer{
+    height:100px;
+    background-color: rgba(104, 55, 249, 0.314);
+    text-align: center;
+    line-height: 100px;
+
+}
+
+ 
